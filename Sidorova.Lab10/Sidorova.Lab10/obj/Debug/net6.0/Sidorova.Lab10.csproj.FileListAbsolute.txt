@@ -1,0 +1,15 @@
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\bin\Debug\net6.0\Sidorova.Lab10.exe
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\bin\Debug\net6.0\Sidorova.Lab10.deps.json
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\bin\Debug\net6.0\Sidorova.Lab10.runtimeconfig.json
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\bin\Debug\net6.0\Sidorova.Lab10.dll
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\bin\Debug\net6.0\Sidorova.Lab10.pdb
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\Sidorova.Lab10.csproj.AssemblyReference.cache
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\Sidorova.Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\Sidorova.Lab10.AssemblyInfoInputs.cache
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\Sidorova.Lab10.AssemblyInfo.cs
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\Sidorova.Lab10.csproj.CoreCompileInputs.cache
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\Sidorova.Lab10.dll
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\refint\Sidorova.Lab10.dll
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\Sidorova.Lab10.pdb
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\Sidorova.Lab10.genruntimeconfig.cache
+C:\Users\пёс\source\repos\Sidorova.Lab10\Sidorova.Lab10\obj\Debug\net6.0\ref\Sidorova.Lab10.dll
