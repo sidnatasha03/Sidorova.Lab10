@@ -1,0 +1,3 @@
+﻿using Carsharing;
+
+Menu.InputMenu();

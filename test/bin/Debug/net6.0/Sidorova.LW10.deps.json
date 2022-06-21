@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sidorova.LW10/1.0.0": {
+        "dependencies": {
+          "Carsharing": "1.0.0"
+        },
+        "runtime": {
+          "Sidorova.LW10.dll": {}
+        }
+      },
+      "Carsharing/1.0.0": {
+        "runtime": {
+          "Carsharing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sidorova.LW10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Carsharing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
